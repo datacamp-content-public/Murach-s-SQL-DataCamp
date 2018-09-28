@@ -10,7 +10,7 @@ type: VideoExercise
 lang: sql
 xp: 50
 skills: 1
-key: 2e561535e2
+key: 5f62e84925
 ```
 
 ---
@@ -20,7 +20,7 @@ key: 2e561535e2
 type: PureMultipleChoiceExercise
 xp: 50
 skills: 1
-key: 09bffa89e5
+key: 6dcd4f1fab
 ```
 
 This exercise serves as a multiple choice exercise with no coding. We have a hard
@@ -52,7 +52,7 @@ type: NormalExercise
 lang: sql
 xp: 100
 skills: 1
-key: ec1f019093
+key: af13ee0d4f
 ```
 
 This is the [assignment text](http://authoring.datacamp.com/courses/exercises/normal-exercises/assignment-text.html). 
@@ -119,7 +119,7 @@ type: NormalExercise
 lang: r
 xp: 100
 skills: 1
-key: 7f414b07c9
+key: 4ae6c967ad
 ```
 
 This is the [assignment text](http://authoring.datacamp.com/courses/exercises/normal-exercises/assignment-text.html). 
