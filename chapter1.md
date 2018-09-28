@@ -1,13 +1,13 @@
 ---
-title: 'Template Chapter 1'
-description: 'This is a template chapter.'
+title: 'Chapter 3 How to retrieve data from a single table'
+description: ""
 ---
 
 ## Introduction to the Course SQL
 
 ```yaml
 type: VideoExercise
-key: 9cb3858720
+key: bf84918c42
 lang: sql
 xp: 50
 skills: 1
@@ -20,7 +20,7 @@ skills: 1
 
 ```yaml
 type: PureMultipleChoiceExercise
-key: b325f5f3c4
+key: 1038b82628
 xp: 50
 skills: 1
 ```
@@ -52,7 +52,7 @@ This should assist students in cutting out some of the distractors.
 
 ```yaml
 type: NormalExercise
-key: aefef8b696
+key: e1bcea13df
 lang: sql
 xp: 100
 skills: 1
@@ -116,7 +116,7 @@ Ex().success_msg("Some praise! Then reinforce a learning objective from the exer
 
 ```yaml
 type: NormalExercise
-key: fe2ac628bb
+key: b91b6c9280
 lang: r
 xp: 100
 skills: 1
