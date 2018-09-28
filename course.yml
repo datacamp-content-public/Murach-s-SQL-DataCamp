@@ -1,4 +1,4 @@
-title: Course Title Here
+title: Murach s SQL DataCamp
 description: A description of the course.
 programming_language: sql
 from: 'postgresql-base-prod:v1.0.0' # 'msft-sql-base-prod:v1.1.0'
